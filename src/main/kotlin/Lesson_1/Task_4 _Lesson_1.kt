@@ -8,7 +8,7 @@ fun main() {
     val partOfYear: Double = 2.0547945205479453E-4  // нужна высокая точность → Double
     val apogee: Int = 327_000                // помещается в Int
 
-    // вывод с новой строки
+    // вывод с новой строки!
     println(length)
     println(age)
     println(partOfDay)
