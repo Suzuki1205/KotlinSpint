@@ -7,7 +7,7 @@ fun main(){
     println(buyer)
     println(gratitude)
     var store_Employe: Int = 2000
-    //В компании работает 2000 сотрудников
+    //В компании работает 2000 сотрудников ( Странно да? у них 75 заказов всего а штат 2000)
     //println("Employees:" + store_Employe)
     //Один уволился
     println("Employees:" + (store_Employe - 1))
